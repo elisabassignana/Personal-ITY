@@ -55,3 +55,10 @@ MBTI personality types:
     - ISFP Adventurer
     - ESTP Entrepreneur
     - ESFP Entertainer
+
+# Publications
+Personal-ITY is described in:
+- Elisa Bassignana, Malvina Nissim, Viviana Patti. Personal-ITY: A Novel YouTube-based Corpus for Personality Prediction in Italian. In Proceedings of the Seventh Italian Conference on Computational Linguistics (CLiC-it 2020)
+http://ceur-ws.org/Vol-2769/paper_77.pdf
+- Elisa Bassignana, Malvina Nissim, Viviana Patti. Matching Theory and Data with Personal-ITY: What a Corpus of Italian YouTube Comments Reveals About Personality. In Proceedings of the Third Workshop on Computational Modeling of People's Opinions, Personality, and Emotion's in Social Media (PEOPLES 2020)
+https://www.aclweb.org/anthology/2020.peoples-1.2.pdf
